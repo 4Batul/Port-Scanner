@@ -22,7 +22,7 @@ The script prompts the user to input the target host, starting port, and ending 
 - Standard Python libraries: `socket`, `sys`, `concurrent.futures`
 
 ## Usage
-1. Save the script to a file, e.g., `tcp_port_scanner.py`.
+1. Save the script to a file.
 2. Run the script using Python:
 
 ```bash
